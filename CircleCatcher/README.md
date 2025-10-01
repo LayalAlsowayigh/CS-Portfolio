@@ -1,7 +1,6 @@
 
----
 
-## 📘 CircleCatcher/README.md
+ 🎯CircleCatcher
 ```markdown
 # Circle Catcher Game
 
@@ -11,6 +10,5 @@ It helped me learn how to use GUI programming and event handling.
 ## How to Run
 1. Make sure you have JavaFX installed.  
 2. Compile and run with Maven:
-   ```bash
    mvn clean install
    mvn javafx:run
