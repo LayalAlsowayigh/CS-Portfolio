@@ -1,6 +1,7 @@
-# ATM Simulator (C)
+🪄 ATM Simulator Using C
 
-## Description
+📍Description
+
 A simple ATM simulation program that allows users to:
 - Deposit money
 - Withdraw money
@@ -9,21 +10,19 @@ A simple ATM simulation program that allows users to:
 
 Account balance is stored in a file so the program remembers values between runs.
 
-## Technologies
+Technologies
 - Language: C
 - Concepts: Loops, Functions, File I/O
 
-## How to Run
+⚙️ How to Run ⚙️
 ```bash
-# Compile
+Compile
 gcc atm.c -o atm
 
-# Run
+Run
 ./atm
-```
 
-## Example Output
-```
+Example Output
 === ATM Simulator ===
 1) Deposit
 2) Withdraw
