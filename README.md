@@ -1,62 +1,41 @@
+<!-- Pink animated hero (SVG with foreignObject: no external images) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=FF69B4&width=600&lines=Layal+Alsowayigh+-+CS+Portfolio;Computer+Science+Student;Honors+Program+at+PFW;Building+Cool+Projects+💖" alt="Typing SVG" />
+  <img src="readme/hero.svg" alt="Layal Alsowayigh — CS Portfolio" width="100%" />
 </p>
 
-
----
-
-Hi 👋 I'm **Layal**, a Computer Science Honors student at Purdue University Fort Wayne (GPA 3.76).  
-This repository showcases my academic and personal projects in **C, Python, JavaScript, and Java**.
-
----
-
-## 🌸 Projects  
-
-### 🏧 [ATM Simulator (C)](ATM-Simulator-C)
-💗 Menu-driven deposits, withdrawals, and balance checks.  
-💗 Uses file persistence to save account data.  
-✨ *Core Skills:* Loops, functions, file I/O in C.  
-
----
-
-### 🌦️ [Weather App (Python)](WeatherApp-Python)
-💖 Fetches live weather data from OpenWeather API.  
-💖 Shows temperature, forecast, and conditions.  
-✨ *Core Skills:* APIs, JSON parsing, Python requests.  
-
----
-
-### ✅ [To-Do List Web App (HTML/CSS/JS)](TodoList-WebApp)
-💞 Simple web app for adding/removing tasks.  
-💞 Saves tasks with Local Storage.  
-✨ *Core Skills:* DOM manipulation, front-end styling.  
-
----
-
-### 🚗 [Car Dealership System (Java)](Car-Dealership-System)
-💓 Abstract `Car` class with `NewCar` and `UsedCar` subclasses.  
-💓 Demonstrates OOP: inheritance + polymorphism.  
-✨ *Core Skills:* Abstraction, classes, methods.  
-
----
-
-### 🎮 [Circle Catcher (JavaFX)](CircleCatcher)
-🌺 GUI-based game with moving circles to “catch.”  
-🌺 Built with JavaFX and event handling.  
-✨ *Core Skills:* Graphics programming, animations.  
-
----
-
-### 📝 [State Survey (Java)](StateSurvey)
-🌷 Validates input (age, ZIP, state) with exceptions.  
-🌷 Stores survey data in binary files.  
-✨ *Core Skills:* Exceptions, file I/O, JUnit tests.  
-
----
-
-## 🎀 Tech Stack  
-
+<!-- “Menu” buttons (each is a clickable image) -->
 <p align="center">
+  <a href="https://www.linkedin.com/in/layal-alsowayigh-3730b030b/"><img src="readme/btn-linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://github.com/LayalAlsowayigh"><img src="readme/btn-github.svg" alt="GitHub" /></a>
+  <a href="mailto:Layal.alsowayigh@icloud.com"><img src="readme/btn-email.svg" alt="Email" /></a>
+</p>
+
+<!-- Typing line (safe pink animation) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=900&color=FF69B4&width=720&lines=CS+Honors+Student+%40+PFW;Software+Engineering+%2B+Cybersecurity;C+%7C+Java+%7C+Python+%7C+JS;Building+clean%2C+student-level+projects+%F0%9F%92%96" alt="Typing banner" />
+</p>
+
+## 🌸 Projects
+- **🌷 [ATM Simulator (C)](ATM-Simulator-C)** — deposit/withdraw/balance; file persistence.  
+  _Concepts:_ loops, functions, file I/O.
+
+- **💗 [Weather App (Python)](WeatherApp-Python)** — current weather via OpenWeather API.  
+  _Concepts:_ requests, JSON parsing.
+
+- **🎀 [To-Do List (Web)](TodoList-WebApp)** — add/complete/delete; Local Storage.  
+  _Concepts:_ DOM, events, persistence.
+
+- **🌺 [Car Dealership (Java)](Car-Dealership-System)** — `Car` with `NewCar`/`UsedCar` subclasses.  
+  _Concepts:_ inheritance, polymorphism, abstraction.
+
+- **💖 [Circle Catcher (JavaFX)](CircleCatcher)** — click moving circles; JavaFX GUI.  
+  _Concepts:_ animations, event handling.
+
+- **✨ [State Survey (Java)](StateSurvey)** — input validation, custom exception, binary file.  
+  _Concepts:_ exceptions, file I/O, tests.
+
+## 🎀 Tech
+<p>
   <img src="https://img.shields.io/badge/C-ff66b2?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ff4da6?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-ff99cc?style=for-the-badge&logo=python&logoColor=white" />
@@ -67,16 +46,9 @@ This repository showcases my academic and personal projects in **C, Python, Java
 
 ---
 
-## 📫 Connect with Me  
+<!-- Responsive grid like Graham’s (light/dark + 2x2). Remove ALL whitespace between items. -->
+<a href="ATM-Simulator-C"><picture><source media="(prefers-color-scheme: light)" srcset="readme/tile1-light.jpg"><img src="readme/tile1-dark.jpg" width="49.9%" alt="Tile 1"></picture></a><a href="WeatherApp-Python"><picture><source media="(prefers-color-scheme: light)" srcset="readme/tile2-light.jpg"><img src="readme/tile2-dark.jpg" width="49.9%" alt="Tile 2"></picture></a>
+<a href="TodoList-WebApp"><picture><source media="(prefers-color-scheme: light)" srcset="readme/tile3-light.jpg"><img src="readme/tile3-dark.jpg" width="49.9%" alt="Tile 3"></picture></a><a href="CircleCatcher"><picture><source media="(prefers-color-scheme: light)" srcset="readme/tile4-light.jpg"><img src="readme/tile4-dark.jpg" width="49.9%" alt="Tile 4"></picture></a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/layal-alsowayigh-3730b030b/">
-    <img src="https://img.shields.io/badge/LinkedIn-ff5c8d?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/LayalAlsowayigh">
-    <img src="https://img.shields.io/badge/GitHub-ff3385?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:Layal.alsowayigh@icloud.com">
-    <img src="https://img.shields.io/badge/Email-ff66a3?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<sub>© 2025 Layal Alsowayigh — student portfolio. Please don’t copy.</sub>
+
