@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckMenuItem?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="643.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lab.Controller">
+    <children>
+        <MenuBar layoutX="1.0" prefHeight="28.0" prefWidth="643.0">
+            <menus>
+                <Menu mnemonicParsing="false" text="Mode">
+                    <items>
+                        <CheckMenuItem fx:id="normalMode" mnemonicParsing="false" onAction="#selectNormalMode" selected="true" text="Normal" />
+                        <CheckMenuItem fx:id="extraMode" mnemonicParsing="false" onAction="#selectExtraMode" text="Extra" />
+                    </items>
+                </Menu>
+            </menus>
+        </MenuBar>
+
+              <Label fx:id="titleLabel" layoutX="233.0" layoutY="36.0" prefHeight="106.0" prefWidth="192.0" text="You Win!" visible="false">
+            <font>
+                <Font size="48.0" />
+            </font>
+        </Label>
+      <Pane fx:id="gamePane" layoutX="30.0" layoutY="52.0" prefHeight="437.0" prefWidth="575.0">
+         <children>
+      
+              <Label fx:id="instructionsLabel1" layoutX="100.0" layoutY="325.0" prefHeight="29.0" prefWidth="413.0" text="Click on every moving circle to send it ">
+                  <font>
+                      <Font size="24.0" />
+                  </font>
+              </Label>
+              <Label fx:id="instructionsLabel2" layoutX="90.0" layoutY="354.0" prefHeight="29.0" prefWidth="413.0" text="to the center to capture them all to win!">
+                  <font>
+                      <Font size="24.0" />
+                  </font>
+              </Label>
+         </children>
+      </Pane>
+          <Button fx:id="playButton" layoutX="246.0" layoutY="220.0" mnemonicParsing="false" onAction="#startGame" prefHeight="60.0" prefWidth="150.0" text="Play">
+              <font>
+                  <Font size="24.0" />
+              </font>
+          </Button>
+    </children>
+</AnchorPane>

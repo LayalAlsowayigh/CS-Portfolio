@@ -1,0 +1,12 @@
+# IDE files
+.idea/
+.settings/
+
+# Build output
+target/
+*.class
+*.bin
+
+# OS files
+.DS_Store
+
