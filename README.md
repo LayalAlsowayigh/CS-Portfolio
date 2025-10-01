@@ -20,8 +20,9 @@
 ---
 
 ## 🌷 About Me
-Hi, I’m **Layal**, a Computer Science **Honors student** at Purdue University Fort Wayne (GPA **3.76**).  
-This repo is my **pink-themed portfolio** across **C, Python, JavaScript, and Java**.  
+Hi, I’m **Layal**, a Computer Science **Honors student** on track for Dean’s List at Purdue University Fort Wayne (GPA **3.76**). 
+
+**portfolio** across **C, Python, JavaScript, and Java**.  
 
 ✨ Interests:  
 - 🌸 **Software Engineering**  
@@ -38,16 +39,16 @@ This repo is my **pink-themed portfolio** across **C, Python, JavaScript, and Ja
    🌦️ Fetches live weather via OpenWeather API.
 
 3. **To-Do List Web App (HTML/CSS/JS)** — [TodoList-WebApp](TodoList-WebApp)  
-   ✅ Interactive task manager with Local Storage.
+   👩‍💻 Interactive task manager with Local Storage.
 
 4. **Car Dealership System (Java)** — [Car-Dealership-System](Car-Dealership-System)  
-   🚗 OOP-based system with inventory & sales logic.
+   🗿 OOP-based system with inventory & sales logic.
 
 5. **Circle Catcher (JavaFX)** — [CircleCatcher](CircleCatcher)  
-   🎮 Fun desktop game built with JavaFX and FXML.
+   🎡 Fun desktop game built with JavaFX and FXML.
 
 6. **State Survey (Java)** — [StateSurvey](StateSurvey)  
-   🗳️ User survey with exception handling and test cases.
+   📑 User survey with exception handling and test cases.
 
 ---
 
