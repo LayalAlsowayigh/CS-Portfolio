@@ -22,7 +22,7 @@
 ## 🌷 About Me
 Hi, I’m **Layal**, a Computer Science **Honors student** on track for Dean’s List at Purdue University Fort Wayne (GPA **3.76**). 
 
-**portfolio** across **C, Python, JavaScript, and Java**.  
+**portfolio** across **C,C++,Python, JavaScript, and Java**.  
 
 ✨ Interests:  
 - 🌸 **Software Engineering**  
