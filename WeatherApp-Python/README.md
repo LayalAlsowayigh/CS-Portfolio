@@ -20,7 +20,7 @@ It displays the current temperature, feels-like, humidity, wind, and conditions 
 # 1) Install dependency
 pip install requests
 
-# 2) Set your API key (replace your_key_here)
+# 2) Set your API key
 # macOS/Linux:
 export OPENWEATHER_API_KEY="your_key_here"
 # Windows PowerShell:
@@ -28,7 +28,7 @@ setx OPENWEATHER_API_KEY "your_key_here"
 
 # 3) Run the app
 python weather.py Fort Wayne
-# or simply:
+# or
 python weather.py
 # and then type a city when prompted
 ```
