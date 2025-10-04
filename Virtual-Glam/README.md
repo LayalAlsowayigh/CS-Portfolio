@@ -15,6 +15,7 @@ I built this to practice **C++ OOP, sorting, and file I/O** in a fun way by conn
 
 .....
 
-**Build & Run**
+**Run**
+```bash
 g++ -std=c++17 -Wall -Wextra main.cpp Item.cpp Catalog.cpp -o virtual_glam
 ./virtual_glam
