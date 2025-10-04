@@ -11,3 +11,9 @@
 target/
 *.class
 *.bin
+.DS_Store
+**/*.o
+**/*.out
+**/*.exe
+**/virtual_glam
+**/atm
