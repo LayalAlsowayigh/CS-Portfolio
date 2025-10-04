@@ -1,0 +1,15 @@
+Moisturizer,Charlotte’s Magic Cream,none,66,Charlotte Tilbury
+Primer,REFY Face Primer,clear,28,REFY
+Foundation,Triclone Skin Tech Foundation,Light 160 Cool,49,Haus Labs
+Foundation,Triclone Skin Tech Foundation,Medium 250 Neutral,49,Haus Labs
+Foundation,Triclone Skin Tech Foundation,Deep 460 Warm,49,Haus Labs
+Setting Powder,Easy Bake Loose Powder - Pound Cake,light neutral,38,Huda Beauty
+Setting Powder,Easy Bake Loose Powder - Cherry Blossom,bright pink,38,Huda Beauty
+Setting Powder,Easy Bake Loose Powder - Cinnamon Bun,tan neutral,38,Huda Beauty
+Bronzer Stick,SoftSculpt Shaping Stick,Light,32,Makeup by Mario
+Bronzer,Nu Bronzer (Le Nu Glow Powder Bronzer),warm bronze,55,YSL
+Blush Stick,Soft Pop Blush Stick,Peachy,30,Makeup by Mario
+Blush Duo,Major Headlines Double-Take Crème & Powder Blush Duo,She's Vibrant (rose),38,Patrick Ta
+Blush,Nu Blush (Le Nu Glow Powder Blush),rosy nude,45,YSL
+Highlighter Palette,Backstage Glow Face Palette - 001 Universal,universal,48,Dior
+Setting Spray,Airbrush Flawless Setting Spray,clear,38,Charlotte Tilbury
