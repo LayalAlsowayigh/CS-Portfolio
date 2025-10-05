@@ -32,24 +32,23 @@ Hi, I’m **Layal**, a Computer Science **Honors student** on track for Dean’s
 ---
 
 ## 🌸 Projects
-1. **ATM Simulator (C)** — [ATM-Simulator-C](ATM-Simulator-C)  
-   💳 Menu-driven deposit/withdraw/balance with file persistence.
+1. **Virtual Glam by Layal (C++17)** — [Virtual-Glam](Virtual-Glam)  
+   💄 Makeup catalog app that saves and sorts cosmetic products using file I/O. 
 
-2. **Weather App (Python)** — [WeatherApp-Python](WeatherApp-Python)  
+2. **QueueCraft (C++17)** — [QueueCraft](QueueCraft)  
+   🚌 Transit boarding simulator with passenger priorities, CSV logging, and Python chart analysis.  
+3. **Weather App (Python)** — [WeatherApp-Python](WeatherApp-Python)  
    🌦️ Fetches live weather via OpenWeather API.
 
-3. **To-Do List Web App (HTML/CSS/JS)** — [TodoList-WebApp](TodoList-WebApp)  
+4. **To-Do List Web App (HTML/CSS/JS)** — [TodoList-WebApp](TodoList-WebApp)  
    👩‍💻 Interactive task manager with Local Storage.
-
-4. **Car Dealership System (Java)** — [Car-Dealership-System](Car-Dealership-System)  
-   🗿 OOP-based system with inventory & sales logic.
 
 5. **Circle Catcher (JavaFX)** — [CircleCatcher](CircleCatcher)  
    🎡 Fun desktop game built with JavaFX and FXML.
 
-6. **State Survey (Java)** — [StateSurvey](StateSurvey)  
-   📑 User survey with exception handling and test cases.
-
+6. **Trackly (C++17)** — [Trackly](Trackly)  
+   📊 Smart inventory & sales tracker with CSV file saving, sorting, and restock alerts.  
+💫 *And there’s more!*
 ---
 
 ## 💕 Contact
