@@ -1,0 +1,12 @@
+# C++ build outputs
+*.o
+*.exe
+a.out
+queuecraft
+
+# Simulator outputs
+runs/*.csv
+runs/*.png
+
+# macOS
+.DS_Store
