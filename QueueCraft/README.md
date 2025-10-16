@@ -7,6 +7,8 @@ QueueCraft simulates boarding at a transit stop using **priority queues** (elder
 - Priority + fairness policy (configurable)
 - CSV outputs: `runs/run1.csv` and `runs/run1_metrics.csv`
 - Optional Python plot: `runs/avg_wait.png`
+## 🚀 Live Demo  
+[Click to View Online](https://layalalsowayigh.github.io/CS-Portfolio/QueueCraft/)
 
 ## Build & Run (macOS / Linux)
 ```bash
