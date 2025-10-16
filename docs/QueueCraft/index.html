@@ -1,0 +1,27 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>QueueCraft — Transit Boarding Queue Simulator</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:28px;line-height:1.5}
+  .wrap{max-width:860px;margin:auto}
+  a.btn{display:inline-block;padding:10px 14px;border:1px solid #ddd;border-radius:12px;text-decoration:none;color:inherit;margin-right:10px}
+  code{background:#f6f6f6;padding:2px 6px;border-radius:6px}
+  pre{background:#f6f6f6;padding:12px;border-radius:12px;overflow:auto}
+</style>
+<div class="wrap">
+  <h1>QueueCraft — Transit Boarding Queue Simulator (C++17)</h1>
+  <p>Run the simulator locally with the commands below, or browse the source.</p>
+
+  <p>
+    <a class="btn" href="../../QueueCraft/">View Source on GitHub</a>
+    <a class="btn" href="https://codespaces.new/layalalsowayigh/CS-Portfolio?quickstart=1">Open in Codespaces</a>
+  </p>
+
+  <h2>Build & Run (macOS / Linux)</h2>
+  <pre><code>g++ -std=c++17 -Wall -Wextra src/*.cpp -o queuecraft
+./queuecraft
+python3 analyze.py runs/run1.csv   # optional chart</code></pre>
+
+  <p><small>Tip: This page exists only to power the Live Demo link in the README. Code remains in <code>/QueueCraft</code>.</small></p>
+</div>
