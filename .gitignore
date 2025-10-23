@@ -17,3 +17,5 @@ target/
 **/*.exe
 **/virtual_glam
 **/atm
+*.zip
+*.zip
